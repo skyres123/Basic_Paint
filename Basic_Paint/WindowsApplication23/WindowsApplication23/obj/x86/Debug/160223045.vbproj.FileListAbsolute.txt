@@ -1,0 +1,12 @@
+C:\Users\Mehmet Berat\Desktop\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.exe
+C:\Users\Mehmet Berat\Desktop\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.xml
+C:\Users\Mehmet Berat\Desktop\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.pdb
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.exe
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.xml
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.pdb
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\bin\Debug\WindowsApplication23.exe
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\bin\Debug\WindowsApplication23.pdb
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\bin\Debug\WindowsApplication23.xml
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.Form1.resources
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\obj\x86\Debug\WindowsApplication23.Resources.resources
+C:\Users\Mehmet Berat\Desktop\160223045\WindowsApplication23\WindowsApplication23\obj\x86\Debug\160223045.vbproj.GenerateResource.Cache
